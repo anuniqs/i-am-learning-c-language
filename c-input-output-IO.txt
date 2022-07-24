@@ -1,0 +1,32 @@
+C Output —
+In C programming, printf() is one of the main output function.
+
+Ex,
+
+#include <stdio.h>
+void main()
+{
+    printf("Hello world !");
+}
+
+
+
+C Input —
+In C programming, scanf() is one of the commonly used function to take input from the user.
+
+Ex,
+
+#include <stdio.h>
+int val;
+void main()
+{
+    printf("Enter an integer: ");
+    scanf("%d", &val);
+    printf("You've entered = %d", val);
+}
+
+
+
+ASCII - American Standard Code for Information Interchange
+a - z = 97 - 122
+A - Z = 65 - 90 
